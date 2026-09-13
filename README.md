@@ -46,5 +46,4 @@ Each CSV file (`news/YYYY-MM-DD.csv`) contains:
 ## Distribution
 
 - **Telegram**: [@iranfocused](https://t.me/iranfocused)
-
 - **GitHub**: This repository (long-term archival)
