@@ -4,7 +4,7 @@ Automated news aggregation system that monitors global media coverage of Iran ac
 
 ## Overview
 
-This repository stores daily CSV files of Iran-related headlines collected by an n8n workflow running every 31-37 minutes. Data is sourced from Google News RSS feeds, filtered for relevance, deduplicated, and committed automatically.
+This repository stores daily CSV files of Iran-related headlines running every 31-37 minutes. Data is sourced from Google News RSS feeds, filtered for relevance, deduplicated, and committed automatically.
 
 ## Sources
 
