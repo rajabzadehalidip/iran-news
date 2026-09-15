@@ -37,11 +37,11 @@ Each CSV file (`news/YYYY-MM-DD.csv`) contains:
 
 1. RSS feeds fetched from Google News for each source (last 1 hour window)
 2. Headlines matched against trusted source patterns
-3. Iran relevance check (primary: Iran, Tehran, IRGC, Khamenei, etc.)
+3. Iran relevance check (primary: Iran, Tehran, IRGC, etc.)
 4. Context check (Middle East, sanctions, oil, diplomacy, etc.)
 5. Deduplication by URL and headline across historical and current runs
 6. Sorted by publish time, limited to top 50 per cycle
-7. Stored in Google Sheets, sent to Telegram/Bale channels, and committed here
+7. Stored in Google Sheets, sent to Telegram channel, and committed here
 
 ## Distribution
 
